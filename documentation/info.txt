@@ -1,0 +1,19 @@
+Reversi v.2.1
+created on Feb 10, 2014
+
+features:
+-	full implementation of game rules
+-	not using terminal
+-	game ending and identifying the winner
+-	one player vs. cpu with acceptable intelligence
+-	graphical user interface
+-	main menu
+-	two player
+-	extra stuff
+
++ fixed minor bugs on graphics
++ thoroughly revised source code
++ added documentation
++ thoroughly tested
++ added some other extra stuff
++ added hints
